@@ -1,2 +1,2 @@
-# and102-parks-2
-and102-parks-2
+# Original starter code from and102-parks-2
+
